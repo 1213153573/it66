@@ -11,7 +11,7 @@
 	export default {
 		data() {
 			return {
-				title: '新的测速'
+				title: '新的测速32222'
 			}
 		},
 		onLoad() {
