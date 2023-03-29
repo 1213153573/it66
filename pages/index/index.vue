@@ -11,7 +11,7 @@
 	export default {
 		data() {
 			return {
-				title: 'awdwa'
+				title: '新的测速'
 			}
 		},
 		onLoad() {
